@@ -1,2 +1,2 @@
-#PokeFetch
-######Pokedex API wrapper for python
+# PokeFetch
+Pokedex API wrapper for python
